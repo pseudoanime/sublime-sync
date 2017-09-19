@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Blade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CSS3",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"HTML Boilerplate",
+		"HTMLAttributes",
+		"LaravelCollective HTML Form Snippets",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"phpunitkit",
+		"ProjectManager",
+		"PureCSS",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs"
+	]
+}
