@@ -25,6 +25,7 @@
 		"SnippetMaker",
 		"SublimeLinter",
 		"SublimeLinter-php",
-		"SublimeLinter-phpcs"
+		"SublimeLinter-phpcs",
+		"Vue Syntax Highlight"
 	]
 }

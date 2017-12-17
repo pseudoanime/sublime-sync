@@ -4,12 +4,88 @@
 		"selected_items":
 		[
 			[
-				"e",
-				"event"
+				"fa",
+				"favourites"
+			],
+			[
+				"fav",
+				"favourite"
+			],
+			[
+				"favou",
+				"favourite"
+			],
+			[
+				"ass",
+				"assertCount"
+			],
+			[
+				"re",
+				"reply"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"i",
+				"isFavourited"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"bs3b",
+				"bs3-button:default\tbs3-button-default"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"assert",
+				"assertRedirect"
 			],
 			[
 				"th",
-				"this"
+				"thread"
+			],
+			[
+				"favo",
+				"favourited"
+			],
+			[
+				"e",
+				"events"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"repl",
+				"reply"
+			],
+			[
+				"thread",
+				"thread"
+			],
+			[
+				"crea",
+				"bbcode_create"
+			],
+			[
+				"sub",
+				"subWeek"
+			],
+			[
+				"Ac",
+				"Activity"
 			],
 			[
 				"ev",
@@ -18,10 +94,6 @@
 			[
 				"rec",
 				"recordActivity"
-			],
-			[
-				"user",
-				"user"
 			],
 			[
 				"ch",
@@ -52,10 +124,6 @@
 				"assertSee"
 			],
 			[
-				"t",
-				"threads"
-			],
-			[
 				"array",
 				"array"
 			],
@@ -72,10 +140,6 @@
 				"browser"
 			],
 			[
-				"fav",
-				"favourited_type"
-			],
-			[
 				"uns",
 				"unsignedInteger"
 			],
@@ -90,10 +154,6 @@
 			[
 				"padd",
 				"padding-bottom"
-			],
-			[
-				"cla",
-				"class\tAttr"
 			],
 			[
 				"cha",
@@ -180,10 +240,6 @@
 				"ThreadFilter"
 			],
 			[
-				"assert",
-				"assertDontSee"
-			],
-			[
 				"tr",
 				"trim"
 			],
@@ -206,10 +262,6 @@
 			[
 				"in",
 				"input\tTag"
-			],
-			[
-				"s",
-				"socket"
 			],
 			[
 				"Req",
@@ -289,9 +341,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -300,9 +349,17 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "project man",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"project man",
 				"Project Manager: Remove Project"
@@ -328,10 +385,6 @@
 				"PHP CS Fixer: format this file"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"make sni",
 				"SnippetMaker: Make Snippet"
 			],
@@ -352,15 +405,11 @@
 				"Package Control: Install Package"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
 				"package",
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 444.0
+		"width": 476.0
 	},
 	"console":
 	{
@@ -378,12 +427,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/laragon/www/laracasts-forum"
-	],
 	"file_history":
 	[
+		"/C/laragon/www/laracasts-forum/resources/assets/js/bootstrap.js",
+		"/C/laragon/www/laracasts-forum/resources/assets/js/app.js",
 		"/C/laragon/www/laracasts-forum/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithDatabase.php",
 		"/C/laragon/www/laracasts-forum/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php",
 		"/C/laragon/www/laracasts-forum/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestResponse.php",
@@ -480,13 +527,14 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
-		"height": 115.0,
+		"height": 158.0,
 		"where_history":
 		[
+			"C:\\laragon\\www\\laracasts-forum\\resources\\views",
 			"<project>",
 			"C:\\laragon\\other\\exercism"
 		]
@@ -496,6 +544,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"template",
+			"attributes",
+			"favouritesCount",
+			"class",
+			"favourites_Count",
+			"]);\n",
+			"Your",
+			"example",
+			"message",
+			"\"\"",
+			"exam",
+			"example",
+			"Example",
+			"{",
+			"});\n",
+			"{\n",
+			"<?",
+			"\n    ",
 			"getModelEvents",
 			"thread",
 			"<?",
@@ -562,21 +628,13 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 36.0
 	},
 	"input":
 	{
-		"height": 54.0
+		"height": 58.0
 	},
 	"layout":
 	{
@@ -605,11 +663,14 @@
 	{
 		"height": 0.0
 	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
-	"project": "laracasts-forum.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -619,20 +680,164 @@
 		"selected_items":
 		[
 			[
-				"rep",
-				"app\\Reply.php"
+				"",
+				"resources\\assets\\js\\components\\Replies.vue"
 			],
 			[
-				"thread",
+				"app.js",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"thread.b",
+				"C:\\laragon\\www\\laracasts-forum\\resources\\views\\threads\\reply.blade.php"
+			],
+			[
+				"thre",
 				"app\\Thread.php"
 			],
 			[
 				"reply",
+				"resources\\views\\threads\\reply.blade.php"
+			],
+			[
+				"show",
+				"resources\\views\\profiles\\show.blade.php"
+			],
+			[
+				"reco",
+				"app\\RecordsActivity.php"
+			],
+			[
+				"favo",
+				"app\\Favouriteable.php"
+			],
+			[
+				"f",
+				"app\\Favouriteable.php"
+			],
+			[
+				"reply.",
 				"app\\Reply.php"
 			],
 			[
-				"",
+				"favt",
+				"tests\\Feature\\FavouritesTest.php"
+			],
+			[
+				"fav",
+				"app\\Http\\Controllers\\FavouritesController.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				".env",
+				"node_modules\\.bin\\cross-env"
+			],
+			[
+				"config.ph",
+				"config\\app.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"rep",
+				"app\\Reply.php"
+			],
+			[
+				"app.j",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"threa",
+				"app\\Http\\Controllers\\ThreadController.php"
+			],
+			[
+				"auths",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"acti",
+				"app\\Activity.php"
+			],
+			[
+				"activi",
+				"resources\\views\\profiles\\activities\\activity.blade.php"
+			],
+			[
+				"favor",
+				"app\\Favourite.php"
+			],
+			[
+				"activit",
+				"app\\Activity.php"
+			],
+			[
+				"repcon",
+				"app\\Http\\Controllers\\ReplyController.php"
+			],
+			[
+				"app.",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"thread",
+				"app\\Http\\Controllers\\ThreadController.php"
+			],
+			[
+				"flas",
+				"resources\\assets\\js\\components\\Flash.vue"
+			],
+			[
+				"thcon",
+				"app\\Http\\Controllers\\ThreadController.php"
+			],
+			[
+				"flash",
+				"resources\\assets\\js\\components\\Flash.vue"
+			],
+			[
+				"layou",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"records",
+				"app\\RecordsActivity.php"
+			],
+			[
+				"prof",
+				"tests\\Feature\\ProfilesTest.php"
+			],
+			[
+				"act",
+				"app\\Activity.php"
+			],
+			[
+				"activitt",
 				"tests\\Unit\\ActivityTest.php"
+			],
+			[
+				"ac",
+				"app\\Activity.php"
+			],
+			[
+				"pr",
+				"app\\Http\\Controllers\\ProfilesController.php"
+			],
+			[
+				"prot",
+				"tests\\Feature\\ProfilesTest.php"
+			],
+			[
+				"procon",
+				"app\\Http\\Controllers\\ProfilesController.php"
+			],
+			[
+				"created",
+				"resources\\views\\profiles\\activities\\created_thread.blade.php"
 			],
 			[
 				"activity",
@@ -651,18 +856,6 @@
 				"app\\Thread.php"
 			],
 			[
-				"activi",
-				"tests\\Unit\\ActivityTest.php"
-			],
-			[
-				"act",
-				"app\\Activity.php"
-			],
-			[
-				"activit",
-				"database\\migrations\\2017_09_19_202519_create_activities_table.php"
-			],
-			[
 				"test",
 				"vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php"
 			],
@@ -679,16 +872,8 @@
 				"app\\Policies\\ThreadPolicy.php"
 			],
 			[
-				"web",
-				"routes\\web.php"
-			],
-			[
 				"sho",
 				"resources\\views\\threads\\show.blade.php"
-			],
-			[
-				"auths",
-				"app\\Providers\\AuthServiceProvider.php"
 			],
 			[
 				"layout",
@@ -703,16 +888,8 @@
 				"app\\Http\\Controllers\\ThreadController.php"
 			],
 			[
-				"show",
-				"resources\\views\\threads\\show.blade.php"
-			],
-			[
 				"testre",
 				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Testing\\TestResponse.php"
-			],
-			[
-				"threa",
-				"app\\Thread.php"
 			],
 			[
 				"replies",
@@ -725,10 +902,6 @@
 			[
 				"profi",
 				"app\\Http\\Controllers\\ProfilesController.php"
-			],
-			[
-				"layou",
-				"resources\\views\\layouts\\app.blade.php"
 			],
 			[
 				"index",
@@ -759,20 +932,8 @@
 				"tests\\utilities\\functions.php"
 			],
 			[
-				"prof",
-				"tests\\Feature\\ProfilesTest.php"
-			],
-			[
-				"fav",
-				"tests\\Feature\\FavouritesTest.php"
-			],
-			[
 				"handler",
 				"app\\Exceptions\\Handler.php"
-			],
-			[
-				"thre",
-				"app\\Thread.php"
 			],
 			[
 				"repl",
@@ -821,10 +982,6 @@
 			[
 				"google",
 				"config\\google-calendar.php"
-			],
-			[
-				"app",
-				"config\\app.php"
 			],
 			[
 				"event.php",
@@ -1033,102 +1190,6 @@
 			[
 				"crea",
 				"resources\\views\\flyers\\create.blade.php"
-			],
-			[
-				"form",
-				"resources\\views\\flyers\\form.blade.php"
-			],
-			[
-				"log/lara",
-				"storage\\logs\\laravel-2016-09-13.log"
-			],
-			[
-				"photo_",
-				"database\\migrations\\2016_09_04_113813_create_photos_table.php"
-			],
-			[
-				"flye",
-				"database\\migrations\\2016_09_04_113236_create_flyers_table.php"
-			],
-			[
-				"config/ap",
-				"config\\app.php"
-			],
-			[
-				"com",
-				"composer.json"
-			],
-			[
-				"rou",
-				"app\\Http\\routes.php"
-			],
-			[
-				"form.",
-				"resources\\views\\flyers\\form.blade.php"
-			],
-			[
-				"event",
-				"app\\Providers\\EventServiceProvider.php"
-			],
-			[
-				"log/lar",
-				"storage\\logs\\laravel-2016-09-13.log"
-			],
-			[
-				"eventser",
-				"app\\Providers\\EventServiceProvider.php"
-			],
-			[
-				"config/pu",
-				"config\\pusher.php"
-			],
-			[
-				"config/app",
-				"config\\app.php"
-			],
-			[
-				".en",
-				".env"
-			],
-			[
-				"config/a",
-				"config\\app.php"
-			],
-			[
-				"show.bl",
-				"resources\\views\\flyers\\show.blade.php"
-			],
-			[
-				"app.s",
-				"resources\\assets\\sass\\app.scss"
-			],
-			[
-				"gitig",
-				".gitignore"
-			],
-			[
-				"uploade",
-				"vendor\\symfony\\http-foundation\\File\\UploadedFile.php"
-			],
-			[
-				"flycon",
-				"app\\Http\\Controllers\\FlyersController.php"
-			],
-			[
-				"show.",
-				"resouces\\views\\flyers\\show.blade.php"
-			],
-			[
-				".git",
-				".gitignore"
-			],
-			[
-				"gulp",
-				"gulpfile.js"
-			],
-			[
-				"confi/app",
-				"config\\app.php"
 			]
 		],
 		"width": 0.0
@@ -1151,7 +1212,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
